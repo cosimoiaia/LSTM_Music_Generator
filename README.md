@@ -1,7 +1,10 @@
 # A Machine Learning LSTM Music Generator with RTTTL
 
 Using lstm_generator_wrapper: https://github.com/cosimoiaia/lstm_generator_wrapper
+
 RTTTL Specification: https://en.wikipedia.org/wiki/Ring_Tone_Transfer_Language
+
+Trained Model: https://www.dropbox.com/s/vw2l1g9ydeervdj/model.tfl?dl=0
 
 ```bash
 ~/git/lstm_generator_wrapper$ ./lstm.py --dataset ringtones_raw.txt --hidden_layer_size 2 --max_sequence_lenght 32
